@@ -1,0 +1,6 @@
+.env
+.yarnrc
+package.json
+Library/
+node_modules
+.npm
